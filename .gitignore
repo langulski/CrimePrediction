@@ -76,6 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.crime_sample.csv
 
 # IPython
 profile_default/
